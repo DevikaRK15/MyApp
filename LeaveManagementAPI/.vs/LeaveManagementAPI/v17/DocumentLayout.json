@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\LeaveManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BB8270-2E33-43A0-86C1-249367F77EBA}|LeaveManagementAPI.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\leavemanagementapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BB8270-2E33-43A0-86C1-249367F77EBA}|LeaveManagementAPI.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BB8270-2E33-43A0-86C1-249367F77EBA}|LeaveManagementAPI.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\leavemanagementapi\\middleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BB8270-2E33-43A0-86C1-249367F77EBA}|LeaveManagementAPI.csproj|solutionrelative:middleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BB8270-2E33-43A0-86C1-249367F77EBA}|LeaveManagementAPI.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\leavemanagementapi\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BB8270-2E33-43A0-86C1-249367F77EBA}|LeaveManagementAPI.csproj|solutionrelative:middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BB8270-2E33-43A0-86C1-249367F77EBA}|LeaveManagementAPI.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\leavemanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BB8270-2E33-43A0-86C1-249367F77EBA}|LeaveManagementAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BB8270-2E33-43A0-86C1-249367F77EBA}|LeaveManagementAPI.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\leavemanagementapi\\controllers\\leavescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BB8270-2E33-43A0-86C1-249367F77EBA}|LeaveManagementAPI.csproj|solutionrelative:controllers\\leavescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BB8270-2E33-43A0-86C1-249367F77EBA}|LeaveManagementAPI.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\leavemanagementapi\\dtos\\leaverequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BB8270-2E33-43A0-86C1-249367F77EBA}|LeaveManagementAPI.csproj|solutionrelative:dtos\\leaverequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BB8270-2E33-43A0-86C1-249367F77EBA}|LeaveManagementAPI.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\leavemanagementapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BB8270-2E33-43A0-86C1-249367F77EBA}|LeaveManagementAPI.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BB8270-2E33-43A0-86C1-249367F77EBA}|LeaveManagementAPI.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\leavemanagementapi\\leavemanagementapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{E0BB8270-2E33-43A0-86C1-249367F77EBA}|LeaveManagementAPI.csproj|solutionrelative:leavemanagementapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BB8270-2E33-43A0-86C1-249367F77EBA}|LeaveManagementAPI.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\leavemanagementapi\\repositories\\ileaverepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BB8270-2E33-43A0-86C1-249367F77EBA}|LeaveManagementAPI.csproj|solutionrelative:repositories\\ileaverepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BB8270-2E33-43A0-86C1-249367F77EBA}|LeaveManagementAPI.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\leavemanagementapi\\services\\leaveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BB8270-2E33-43A0-86C1-249367F77EBA}|LeaveManagementAPI.csproj|solutionrelative:services\\leaveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BB8270-2E33-43A0-86C1-249367F77EBA}|LeaveManagementAPI.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\leavemanagementapi\\repositories\\leaverepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BB8270-2E33-43A0-86C1-249367F77EBA}|LeaveManagementAPI.csproj|solutionrelative:repositories\\leaverepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BB8270-2E33-43A0-86C1-249367F77EBA}|LeaveManagementAPI.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\leavemanagementapi\\services\\ileaveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BB8270-2E33-43A0-86C1-249367F77EBA}|LeaveManagementAPI.csproj|solutionrelative:services\\ileaveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BB8270-2E33-43A0-86C1-249367F77EBA}|LeaveManagementAPI.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\leavemanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E0BB8270-2E33-43A0-86C1-249367F77EBA}|LeaveManagementAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BB8270-2E33-43A0-86C1-249367F77EBA}|LeaveManagementAPI.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\leavemanagementapi\\models\\leavetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BB8270-2E33-43A0-86C1-249367F77EBA}|LeaveManagementAPI.csproj|solutionrelative:models\\leavetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BB8270-2E33-43A0-86C1-249367F77EBA}|LeaveManagementAPI.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\leavemanagementapi\\models\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BB8270-2E33-43A0-86C1-249367F77EBA}|LeaveManagementAPI.csproj|solutionrelative:models\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BB8270-2E33-43A0-86C1-249367F77EBA}|LeaveManagementAPI.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\leavemanagementapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BB8270-2E33-43A0-86C1-249367F77EBA}|LeaveManagementAPI.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BB8270-2E33-43A0-86C1-249367F77EBA}|LeaveManagementAPI.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\leavemanagementapi\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BB8270-2E33-43A0-86C1-249367F77EBA}|LeaveManagementAPI.csproj|solutionrelative:repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BB8270-2E33-43A0-86C1-249367F77EBA}|LeaveManagementAPI.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\leavemanagementapi\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BB8270-2E33-43A0-86C1-249367F77EBA}|LeaveManagementAPI.csproj|solutionrelative:repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BB8270-2E33-43A0-86C1-249367F77EBA}|LeaveManagementAPI.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\leavemanagementapi\\migrations\\20260612045210_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BB8270-2E33-43A0-86C1-249367F77EBA}|LeaveManagementAPI.csproj|solutionrelative:migrations\\20260612045210_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BB8270-2E33-43A0-86C1-249367F77EBA}|LeaveManagementAPI.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\leavemanagementapi\\leavemanagementapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E0BB8270-2E33-43A0-86C1-249367F77EBA}|LeaveManagementAPI.csproj|solutionrelative:leavemanagementapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 130,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\LeaveManagementAPI\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\LeaveManagementAPI\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T08:13:20.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LeaveManagementAPI.http",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\LeaveManagementAPI\\LeaveManagementAPI.http",
+              "RelativeDocumentMoniker": "LeaveManagementAPI.http",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\LeaveManagementAPI\\LeaveManagementAPI.http",
+              "RelativeToolTip": "LeaveManagementAPI.http",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-06-12T08:06:16.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20260612045210_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\LeaveManagementAPI\\Migrations\\20260612045210_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260612045210_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\LeaveManagementAPI\\Migrations\\20260612045210_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260612045210_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T04:52:10.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\LeaveManagementAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\LeaveManagementAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-12T04:46:16.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\LeaveManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\LeaveManagementAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwC4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T04:32:33.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RequestLoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\LeaveManagementAPI\\Middleware\\RequestLoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\RequestLoggingMiddleware.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\LeaveManagementAPI\\Middleware\\RequestLoggingMiddleware.cs",
+              "RelativeToolTip": "Middleware\\RequestLoggingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T04:15:41.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\LeaveManagementAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\LeaveManagementAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA4wAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T04:15:23.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LeaveService.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\LeaveManagementAPI\\Services\\LeaveService.cs",
+              "RelativeDocumentMoniker": "Services\\LeaveService.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\LeaveManagementAPI\\Services\\LeaveService.cs",
+              "RelativeToolTip": "Services\\LeaveService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAC4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T04:15:06.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ILeaveService.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\LeaveManagementAPI\\Services\\ILeaveService.cs",
+              "RelativeDocumentMoniker": "Services\\ILeaveService.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\LeaveManagementAPI\\Services\\ILeaveService.cs",
+              "RelativeToolTip": "Services\\ILeaveService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T04:14:52.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LeaveRepository.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\LeaveManagementAPI\\Repositories\\LeaveRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\LeaveRepository.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\LeaveManagementAPI\\Repositories\\LeaveRepository.cs",
+              "RelativeToolTip": "Repositories\\LeaveRepository.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T04:14:37.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ILeaveRepository.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\LeaveManagementAPI\\Repositories\\ILeaveRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ILeaveRepository.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\LeaveManagementAPI\\Repositories\\ILeaveRepository.cs",
+              "RelativeToolTip": "Repositories\\ILeaveRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T04:14:24.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\LeaveManagementAPI\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\LeaveManagementAPI\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAqwC0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T04:14:08.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\LeaveManagementAPI\\Repositories\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\LeaveManagementAPI\\Repositories\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Repositories\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T04:13:51.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LeaveRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\LeaveManagementAPI\\DTOs\\LeaveRequestDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\LeaveRequestDTO.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\LeaveManagementAPI\\DTOs\\LeaveRequestDTO.cs",
+              "RelativeToolTip": "DTOs\\LeaveRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T04:13:29.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LeaveRequest.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\LeaveManagementAPI\\Models\\LeaveRequest.cs",
+              "RelativeDocumentMoniker": "Models\\LeaveRequest.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\LeaveManagementAPI\\Models\\LeaveRequest.cs",
+              "RelativeToolTip": "Models\\LeaveRequest.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA4wBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T04:13:06.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LeaveType.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\LeaveManagementAPI\\Models\\LeaveType.cs",
+              "RelativeDocumentMoniker": "Models\\LeaveType.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\LeaveManagementAPI\\Models\\LeaveType.cs",
+              "RelativeToolTip": "Models\\LeaveType.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA1wAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T04:12:47.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LeavesController.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\LeaveManagementAPI\\Controllers\\LeavesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LeavesController.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\LeaveManagementAPI\\Controllers\\LeavesController.cs",
+              "RelativeToolTip": "Controllers\\LeavesController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T04:12:22.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\LeaveManagementAPI\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\LeaveManagementAPI\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAuwEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T04:11:51.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\LeaveManagementAPI\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\LeaveManagementAPI\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T04:05:11.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LeaveManagementAPI",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\LeaveManagementAPI\\LeaveManagementAPI.csproj",
+              "RelativeDocumentMoniker": "LeaveManagementAPI.csproj",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\LeaveManagementAPI\\LeaveManagementAPI.csproj",
+              "RelativeToolTip": "LeaveManagementAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-12T04:01:21.337Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

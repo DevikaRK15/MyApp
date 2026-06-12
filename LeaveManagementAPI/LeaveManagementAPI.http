@@ -1,0 +1,16 @@
+@LeaveManagementAPI_HostAddress = http://localhost:5089
+
+GET {{LeaveManagementAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+POST https://localhost:7258/api/leaves
+Content-Type: application/json
+
+{
+  "employeeId": 1,
+  "leaveTypeId": 1,
+  "startDate": "2026-07-01",
+  "endDate": "2026-07-03",
+  "reason": "Medical Leave"
+}
