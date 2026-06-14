@@ -1,0 +1,722 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Migrations\\20260614091715_UpdateOrderDetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260614091715_UpdateOrderDetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\onlinefoodorderingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\onlinefoodorderingsystem\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|solutionrelative:controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\onlinefoodorderingsystem\\services\\orderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|solutionrelative:services\\orderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\onlinefoodorderingsystem\\services\\iorderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|solutionrelative:services\\iorderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\onlinefoodorderingsystem\\repositories\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|solutionrelative:repositories\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\onlinefoodorderingsystem\\repositories\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|solutionrelative:repositories\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\onlinefoodorderingsystem\\dtos\\orderdetailcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|solutionrelative:dtos\\orderdetailcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Migrations\\20260614090553_AddOrderModule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260614090553_AddOrderModule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\onlinefoodorderingsystem\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\onlinefoodorderingsystem\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|solutionrelative:services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\onlinefoodorderingsystem\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|solutionrelative:services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\onlinefoodorderingsystem\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|solutionrelative:repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\onlinefoodorderingsystem\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|solutionrelative:repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\onlinefoodorderingsystem\\dtos\\ordercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|solutionrelative:dtos\\ordercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\onlinefoodorderingsystem\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|solutionrelative:models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\onlinefoodorderingsystem\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Migrations\\20260614084856_AddCustomerModule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260614084856_AddCustomerModule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\onlinefoodorderingsystem\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|solutionrelative:repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\onlinefoodorderingsystem\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|solutionrelative:repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\onlinefoodorderingsystem\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|solutionrelative:controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\onlinefoodorderingsystem\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|solutionrelative:services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\onlinefoodorderingsystem\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|solutionrelative:services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\onlinefoodorderingsystem\\data\\foodorderingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|solutionrelative:data\\foodorderingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\onlinefoodorderingsystem\\dtos\\customerupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|solutionrelative:dtos\\customerupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\onlinefoodorderingsystem\\dtos\\customercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|solutionrelative:dtos\\customercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\onlinefoodorderingsystem\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\onlinefoodorderingsystem\\dtos\\customerresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|solutionrelative:dtos\\customerresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\onlinefoodorderingsystem\\dtos\\category\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|solutionrelative:dtos\\category\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\onlinefoodorderingsystem\\controllers\\fooditemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|solutionrelative:controllers\\fooditemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\onlinefoodorderingsystem\\services\\ifooditemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|solutionrelative:services\\ifooditemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\onlinefoodorderingsystem\\services\\fooditemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|solutionrelative:services\\fooditemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\onlinefoodorderingsystem\\dtos\\fooditemupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|solutionrelative:dtos\\fooditemupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\onlinefoodorderingsystem\\repositories\\fooditemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|solutionrelative:repositories\\fooditemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\onlinefoodorderingsystem\\repositories\\ifooditemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|solutionrelative:repositories\\ifooditemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\onlinefoodorderingsystem\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|solutionrelative:repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\onlinefoodorderingsystem\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|solutionrelative:repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\onlinefoodorderingsystem\\models\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|solutionrelative:models\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\onlinefoodorderingsystem\\dtos\\fooditemcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|solutionrelative:dtos\\fooditemcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\onlinefoodorderingsystem\\onlinefoodorderingsystem.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|solutionrelative:onlinefoodorderingsystem.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|c:\\users\\wwwde\\onedrive\\documents\\c#_application\\onlinefoodorderingsystem\\onlinefoodorderingsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{22080E4B-9162-4320-B4DD-0AE944227536}|OnlineFoodOrderingSystem.csproj|solutionrelative:onlinefoodorderingsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 116,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "OnlineFoodOrderingSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\OnlineFoodOrderingSystem.csproj",
+              "RelativeDocumentMoniker": "OnlineFoodOrderingSystem.csproj",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\OnlineFoodOrderingSystem.csproj",
+              "RelativeToolTip": "OnlineFoodOrderingSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-14T06:39:33.213Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FoodOrderingDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Data\\FoodOrderingDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\FoodOrderingDbContext.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Data\\FoodOrderingDbContext.cs",
+              "RelativeToolTip": "Data\\FoodOrderingDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T06:46:37.504Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260614091715_UpdateOrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Migrations\\20260614091715_UpdateOrderDetail.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260614091715_UpdateOrderDetail.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Migrations\\20260614091715_UpdateOrderDetail.cs",
+              "RelativeToolTip": "Migrations\\20260614091715_UpdateOrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T09:17:15.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderDetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Controllers\\OrderDetailsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderDetailsController.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Controllers\\OrderDetailsController.cs",
+              "RelativeToolTip": "Controllers\\OrderDetailsController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T09:16:00.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderDetailService.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Services\\OrderDetailService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderDetailService.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Services\\OrderDetailService.cs",
+              "RelativeToolTip": "Services\\OrderDetailService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T09:15:24.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IOrderDetailService.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Services\\IOrderDetailService.cs",
+              "RelativeDocumentMoniker": "Services\\IOrderDetailService.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Services\\IOrderDetailService.cs",
+              "RelativeToolTip": "Services\\IOrderDetailService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T09:14:51.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Repositories\\OrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\OrderDetailRepository.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Repositories\\OrderDetailRepository.cs",
+              "RelativeToolTip": "Repositories\\OrderDetailRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T09:14:14.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IOrderDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Repositories\\IOrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IOrderDetailRepository.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Repositories\\IOrderDetailRepository.cs",
+              "RelativeToolTip": "Repositories\\IOrderDetailRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T09:13:41.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderDetailCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\DTOs\\OrderDetailCreateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\OrderDetailCreateDto.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\DTOs\\OrderDetailCreateDto.cs",
+              "RelativeToolTip": "DTOs\\OrderDetailCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T09:10:11.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20260614090553_AddOrderModule.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Migrations\\20260614090553_AddOrderModule.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260614090553_AddOrderModule.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Migrations\\20260614090553_AddOrderModule.cs",
+              "RelativeToolTip": "Migrations\\20260614090553_AddOrderModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T09:05:53.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T09:04:22.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Services\\OrderService.cs",
+              "RelativeToolTip": "Services\\OrderService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T09:03:45.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Services\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Services\\IOrderService.cs",
+              "RelativeToolTip": "Services\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T09:02:51.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwCgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T09:01:51.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Repositories\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Repositories\\IOrderRepository.cs",
+              "RelativeToolTip": "Repositories\\IOrderRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T09:01:08.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\DTOs\\OrderCreateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\OrderCreateDto.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\DTOs\\OrderCreateDto.cs",
+              "RelativeToolTip": "DTOs\\OrderCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T09:00:27.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "Models\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "Models\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T08:55:38.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T08:54:51.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20260614084856_AddCustomerModule.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Migrations\\20260614084856_AddCustomerModule.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260614084856_AddCustomerModule.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Migrations\\20260614084856_AddCustomerModule.cs",
+              "RelativeToolTip": "Migrations\\20260614084856_AddCustomerModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T08:48:56.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Services\\CustomerService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwDcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T08:38:24.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Services\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "Services\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Services\\ICustomerService.cs",
+              "RelativeToolTip": "Services\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T08:37:54.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T08:37:09.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Repositories\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Repositories\\ICustomerRepository.cs",
+              "RelativeToolTip": "Repositories\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T08:36:23.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T08:33:27.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "Controllers\\CustomersController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T08:08:37.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CustomerResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\DTOs\\CustomerResponseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CustomerResponseDto.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\DTOs\\CustomerResponseDto.cs",
+              "RelativeToolTip": "DTOs\\CustomerResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T08:07:33.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CustomerUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\DTOs\\CustomerUpdateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CustomerUpdateDto.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\DTOs\\CustomerUpdateDto.cs",
+              "RelativeToolTip": "DTOs\\CustomerUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T08:07:01.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CustomerCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\DTOs\\CustomerCreateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CustomerCreateDto.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\DTOs\\CustomerCreateDto.cs",
+              "RelativeToolTip": "DTOs\\CustomerCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T08:06:28.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CategoryCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\DTOs\\Category\\CategoryCreateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Category\\CategoryCreateDto.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\DTOs\\Category\\CategoryCreateDto.cs",
+              "RelativeToolTip": "DTOs\\Category\\CategoryCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T08:05:42.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FoodItemService.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Services\\FoodItemService.cs",
+              "RelativeDocumentMoniker": "Services\\FoodItemService.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Services\\FoodItemService.cs",
+              "RelativeToolTip": "Services\\FoodItemService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAowDUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T07:45:49.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IFoodItemService.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Services\\IFoodItemService.cs",
+              "RelativeDocumentMoniker": "Services\\IFoodItemService.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Services\\IFoodItemService.cs",
+              "RelativeToolTip": "Services\\IFoodItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T07:45:19.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FoodItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Controllers\\FoodItemsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FoodItemsController.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Controllers\\FoodItemsController.cs",
+              "RelativeToolTip": "Controllers\\FoodItemsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T07:43:11.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T07:40:03.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T07:04:57.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FoodItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Repositories\\FoodItemRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\FoodItemRepository.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Repositories\\FoodItemRepository.cs",
+              "RelativeToolTip": "Repositories\\FoodItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T07:04:03.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IFoodItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Repositories\\IFoodItemRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IFoodItemRepository.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Repositories\\IFoodItemRepository.cs",
+              "RelativeToolTip": "Repositories\\IFoodItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T07:03:30.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FoodItem.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Models\\FoodItem.cs",
+              "RelativeDocumentMoniker": "Models\\FoodItem.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Models\\FoodItem.cs",
+              "RelativeToolTip": "Models\\FoodItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T07:00:27.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FoodItemUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\DTOs\\FoodItemUpdateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\FoodItemUpdateDto.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\DTOs\\FoodItemUpdateDto.cs",
+              "RelativeToolTip": "DTOs\\FoodItemUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T06:57:33.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FoodItemCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\DTOs\\FoodItemCreateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\FoodItemCreateDto.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\DTOs\\FoodItemCreateDto.cs",
+              "RelativeToolTip": "DTOs\\FoodItemCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T06:57:07.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T06:54:11.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "OnlineFoodOrderingSystem",
+              "DocumentMoniker": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\OnlineFoodOrderingSystem.csproj",
+              "RelativeDocumentMoniker": "OnlineFoodOrderingSystem.csproj",
+              "ToolTip": "C:\\Users\\wwwde\\OneDrive\\Documents\\C#_Application\\OnlineFoodOrderingSystem\\OnlineFoodOrderingSystem.csproj",
+              "RelativeToolTip": "OnlineFoodOrderingSystem.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-14T06:43:01.237Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
